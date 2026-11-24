@@ -184,6 +184,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Lumen](https://github.com/anishathalye/lumen)
 - [MonthlyCal](https://itunes.apple.com/us/app/monthlycal-colorful-monthly/id935250717?mt=12) - Notification Center Calendar
 - [Name mangler](https://manytricks.com/namemangler/)
+- [NotchDeck](https://github.com/systemAdmin-ai/NotchDeck) - Control center and system monitor for the MacBook notch: system metrics, now playing, quick notes, screen recording and task profiles.
 - [Pacifist](http://www.charlessoft.com/) - Opens Mac OS X .pkg package files, .dmg disk images, and .zip, .tar, .tar.gz, .tar.bz2, and .xar archives and allows you to extract individual files and folders out of them.
 - [Popclip](https://pilotmoon.com/popclip/)
 - [Spotifree](http://spotifree.gordinskiy.com/)
